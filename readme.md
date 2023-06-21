@@ -53,12 +53,3 @@ Contributions to the Clock DS1302 Codes repository are welcome! If you have any 
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
 
-### Acknowledgments
-
-Special thanks to **Abdulkaif** for creating and maintaining this repository.
-
-For more details, please visit the GitHub repository.
-
-Enjoy working with the DS1302 clock module and the provided code snippets!
-
-
