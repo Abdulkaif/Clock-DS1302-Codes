@@ -1,5 +1,9 @@
 # Clock DS1302 Codes
 
+![DS1302 RTC MODULE](ds1302.jpg)
+
+
+
 This repository contains code snippets for interfacing with the **DS1302** real-time clock module and displaying current time on 16X2 LCD using MicroPython. The DS1302 is a low-power, real-time clock IC that provides timekeeping functions for applications.
 
 ### Getting Started
